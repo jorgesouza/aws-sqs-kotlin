@@ -1,0 +1,14 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+    stack:
+      auto: false
+    credentials:
+      access-key: xxxxxx
+      secret-key: xxxx
+
+aws:
+  queue:
+    endpoint: https://sqs.us-east-1.amazonaws.com/xxxxxxx
+    queue-test-sqs: queue-test-sqs
