@@ -1,7 +1,7 @@
 # AWS SQS and Schedule in Kotlin with Spring Cloud
 
 ### build.gradle.kts
-implementation("org.springframework.cloud:spring-cloud-starter-aws-messaging")
+```implementation("org.springframework.cloud:spring-cloud-starter-aws-messaging")```
 
 ### QueueController
 ```
