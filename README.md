@@ -1,4 +1,4 @@
-# AWS SQS and Schedule in Kotlin
+# AWS SQS and Schedule in Kotlin with Spring Cloud
 
 The operations is described below.
 
